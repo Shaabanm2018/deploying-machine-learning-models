@@ -2,7 +2,7 @@
 Accompanying repo for the online course Deployment of Machine Learning Models.
 <<<<<<< HEAD
 <<<<<<< HEAD
-New updatea Najibfsdf
+New updatea 3
 =======
 >>>>>>> 837edb6 (new udpates)
 =======
