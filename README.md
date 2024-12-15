@@ -2,7 +2,7 @@
 Accompanying repo for the online course Deployment of Machine Learning Models.
 <<<<<<< HEAD
 <<<<<<< HEAD
-New updatea 222
+New updatea 222ddd
 =======
 test circleci2
 >>>>>>> 837edb6 (new udpates)
